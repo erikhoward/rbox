@@ -12,8 +12,8 @@ To start an interactive **rbox** Docker container:
 ```sh
 docker run --rm -it \
     --name rbox \
-    erikhoward/rbox-base:0.5.0
-    /bin/bash
+    erikhoward/rbox-base:0.5.0 \
+    R
 ```
 
 ## Contributing
